@@ -35,15 +35,16 @@ We need to explore and analyze the data to discover key factors responsible for 
 
 ## 3.	Business KPIs for developing a successful app:
 Almost all the companies/organizations involved in app development maintain business KPIs divided into 3 metrics; namely, UX and performance metrics, Engagement KPI metrics, and Revenue metrics.
-### 1. UX and Performance metrics:
+### a. UX and Performance metrics:
 * Performance metrics provide the data about an app’s technical performance. These metrics allow the development team to improve the app from a technical standpoint and pinpoint issues that hamper the user experience.
 * Eg: Crash reports, load speed, screen resolution, OS, etc.
-### 2. Engagement KPI metrics:
+### b. Engagement KPI metrics:
 * Engagement metrics characterize the way the users interact with the app and show whether they like it or not. The KPIs in this metric have a direct relationship with the revenue generated. Hence, this is one of the most focused metrics in an app development company.
 * Eg: Churn rate, retention rate, session length and depth, daily/weekly/monthly active users, etc.
-### 3. Revenue metrics:
+### c. Revenue metrics:
 * These metrics give a bird' eye view of the cash flow taking place on the app. These metrics also include the money spent to acquire new users and buyers.
 * Eg: Average revenue per user, purchases, conversion rate, cost per install, time to first purchase, etc.
+
 Mobile app metrics are crucial for any application. They show how well the application works from a technical standpoint, how engaged the people are, and how much money active users bring to the business.
 
 ## 4.	 Data pipeline:
