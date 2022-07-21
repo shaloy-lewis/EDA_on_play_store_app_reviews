@@ -1,3 +1,15 @@
+<p align="center"> 
+  <img src="image/netflix.png"  alt="..."width="80px" height="80px">
+</p>
+<h1 align="center"> Exploratory Data Analysis on Play Store Apps</h1>
+<h3 align="center"> AlmaBetter Verfied Project - <a href="https://www.almabetter.com/"> AlmaBetter School </a> </h5>
+
+<p align="center"> 
+<img src="gif/netflix.gif" alt="Animated gif netflix Image" height="382px">
+</p>
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
 # Exploratory Data Analysis on Play Store App Reviews
 
 ## 1. Abstract:
